@@ -90,8 +90,8 @@ a:focus {
 .top-bar .logo h1 {
     margin: 0;
     color: #030f27;
-    font-size: 60px;
-    line-height: 60px;
+    font-size: 25px;
+    line-height: 30px;
     font-weight: 700;
 }
 
@@ -311,7 +311,7 @@ a:focus {
 
 .carousel .carousel-caption h1 {
     color: #ffffff;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
     margin-bottom: 35px;
 }
@@ -481,7 +481,7 @@ a:focus {
 .section-header h2 {
     margin: 0;
     position: relative;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
 }
 
@@ -771,7 +771,7 @@ a:focus {
 
 .service .service-text h3 {
     margin: 0;
-    padding: 0 15px 0 25px;
+    padding: 2.5px 15px 0 25px;
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
@@ -1201,7 +1201,8 @@ a:focus {
 
 .testimonial .testimonial-slider h3 {
     color: #fdbe33;
-    font-size: 22px;
+    font-size: 22px;    
+    padding-top: 10px;
     font-weight: 700;
 }
 
